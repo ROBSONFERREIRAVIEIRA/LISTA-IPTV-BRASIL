@@ -6852,6 +6852,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame",Videogame 1542
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame",Videogame 1667
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1667
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame",Videogame 1687
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1687
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="Videogame",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
