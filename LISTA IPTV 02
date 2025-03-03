@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/qrcode.png" group-title="Variedades", htforum.net
-https://lib.bz/video/site.mp4
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvonline.png" group-title="Variedades", www.tvonline.global
-https://lib.bz/video/site_gerou.mp4
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
